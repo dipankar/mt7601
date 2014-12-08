@@ -1,0 +1,1 @@
+cmd_/home/pi/DPO_MT7601U_LinuxSTA_3.0.0.4_20130913/os/linux/mt7601Usta.ko := ld -r  -T /usr/src/linux-headers-3.12-1-common/scripts/module-common.lds --build-id  -o /home/pi/DPO_MT7601U_LinuxSTA_3.0.0.4_20130913/os/linux/mt7601Usta.ko /home/pi/DPO_MT7601U_LinuxSTA_3.0.0.4_20130913/os/linux/mt7601Usta.o /home/pi/DPO_MT7601U_LinuxSTA_3.0.0.4_20130913/os/linux/mt7601Usta.mod.o
